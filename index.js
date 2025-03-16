@@ -54,6 +54,7 @@
                     "🟠 • Students who are not currently involved in a hospitalized case are not allowed to enter.",
                     "🟠 • Owners are not allowed to enter without being accompanied by the responsible veterinarian and outside visiting hours.",
                     "🟠 • Before and after clinical examination of each animal, every veterinarian and student must thoroughly wash their hands.",
+                    "🟠 • In a case suspected of an infectious disease, disposable gloves must be used and discarded in the waste bin after the examination.",
                     "🟠 • After clinical examination, disposable items are discarded in the waste bin, sharp objects are disposed of in the special yellow container, and reusable items (e.g., muzzles, scissors) are washed with disinfectant solution. Once dried, they are returned to their proper places.",
                     "🟠 • After clinical examination, the table and workbench are cleaned with a disinfectant solution.",
                     "🟠 • Following discharge of each hospitalized animal, its cage must be thoroughly cleaned with a disinfectant solution. The bedding used should be discarded in the waste bin if it is disposable; if it is reusable, it should be washed in the washing machine at high temperature.",
